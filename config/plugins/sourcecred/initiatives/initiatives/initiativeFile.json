@@ -1,0 +1,49 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Attendance Initiative",
+    "timestampIso": "2022-03-04T22:00:00.000Z",
+    "weight": {
+      "incomplete": 0,
+      "complete": 0
+    },
+    "completed": false,
+    "contributions": {
+      "entries": [
+        {
+          "title": "Overlay Call 1",
+          "weight": 100,
+          "timestampIso": "2022-03-03T22:00:00.000Z",
+          "contributors": ["bigboydiamonds"]
+        },
+        {
+          "title": "Overlay Call 2",
+          "weight": 100,
+          "timestampIso": "2022-03-04T22:00:00.000Z",
+          "contributors": ["bigboydiamonds"]
+        },
+        {
+          "title": "Overlay Call 3",
+          "weight": 100,
+          "timestampIso": "2022-03-05T22:00:00.000Z",
+          "contributors": ["bigboydiamonds"]
+        },
+        {
+          "title": "Overlay Call 4",
+          "weight": 100,
+          "timestampIso": "2022-03-06T22:00:00.000Z",
+          "contributors": ["bigboydiamonds"]
+        },
+        {
+          "title": "Overlay Call 5",
+          "weight": 100,
+          "timestampIso": "2022-03-06T22:00:00.000Z",
+          "contributors": ["bigboydiamonds"]
+        }
+      ]
+    }
+  }
+]
