@@ -4,8 +4,8 @@
     "version": "0.2.0"
   },
   {
-    "title": "Attendance Initiative",
-    "timestampIso": "2022-03-04T22:00:00.000Z",
+    "title": "Overlay Community Attendance Initiative",
+    "timestampIso": "2022-02-02T22:00:00.000Z",
     "weight": {
       "incomplete": 0,
       "complete": 0
@@ -15,9 +15,52 @@
       "entries": [
         {
           "title": "Overlay Call 1",
-          "weight": 100,
-          "timestampIso": "2022-03-03T22:00:00.000Z",
-          "contributors": ["bigboydiamonds"]
+          "weight": 4200,
+          "timestampIso": "2022-02-02T22:00:00.000Z",
+          "contributors": [
+            "DrGumbercules",
+            "buihoangthai",
+            "Vexter-Vladimir",
+            "Phongsathorn",
+            "vammac",
+            "kirk",
+            "keng---thaitalent",
+            "hekarus",
+            "england",
+            "JJoKeR---thaitalent",
+            "SexyCD2ElectricBoogaloo",
+            "pom",
+            "bronemy",
+            "Mringz---Index",
+            "Rachanont",
+            "pom-discord",
+            "ultrasound",
+            "Subarash-",
+            "Murfenstein",
+            "gibbalpha",
+            "ToekahMav---",
+            "Moneyfirstie",
+            "omoreloadit",
+            "kepler",
+            "WaTcHinG",
+            "Sukotto---Thaitalent",
+            "cryptobulz",
+            "retrobruh",
+            "hanshotfirst",
+            "donaldp",
+            "Bismark2021",
+            "ayuayu",
+            "THE-BHOOM",
+            "Alhambra",
+            "Kim",
+            "babylove",
+            "Valve",
+            "ongoing1559",
+            "bao0107---Samurai-Saga",
+            "zeck",
+            "darkbluechain",
+            "mazon-tez"
+          ]
         },
         {
           "title": "Overlay Call 2",
