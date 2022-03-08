@@ -4,7 +4,7 @@
     "version": "0.2.0"
   },
   {
-    "title": "Overlay Community Attendance Initiative",
+    "title": "Overlay Community Initiative",
     "timestampIso": "2022-02-02T22:00:00.000Z",
     "weight": {
       "incomplete": 0,
@@ -63,100 +63,126 @@
           ]
         },
         {
-          "title": "Translation and Video Explainer",
+          "title": "Beta Translation and Video Explainer",
           "weight": 364,
           "timestampIso": "2022-03-04T22:00:00.000Z",
           "contributors": ["Beta"]
         },
         {
-          "title": "Translation",
+          "title": "Buihoangthai Translation",
           "weight": 124,
           "timestampIso": "2022-03-05T22:00:00.000Z",
           "contributors": ["buihoangthai"]
         },
         {
-          "title": "Community",
+          "title": "Dutchdamage Community",
           "weight": 400,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["Dutchdamage"]
         },
         {
-          "title": "Translation",
+          "title": "Elkeson Translation",
           "weight": 259,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["Elkeson"]
         },
         {
-          "title": "Explainer",
+          "title": "hanshotfirst Explainer",
           "weight": 195,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["hanshotfirst"]
         },
         {
-          "title": "Medium Post and Explainer",
+          "title": "hanxilgf Medium Post and Explainer",
           "weight": 1015,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["hanxilgf"]
         },
         {
-          "title": "Community and Translation",
+          "title": "kirk Community and Translation",
           "weight": 536,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["kirk"]
         },
         {
-          "title": "Video Intro",
+          "title": "KTP Video Intro",
           "weight": 100,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["KTP"]
         },
         {
-          "title": "Community",
+          "title": "merterth Community",
           "weight": 200,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["merteth"]
         },
         {
-          "title": "Translation",
+          "title": "Rachanont Translation",
           "weight": 332,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["Rachanont"]
         },
         {
-          "title": "Translation and Explainer",
+          "title": "scarlet Translation and Explainer",
           "weight": 220,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["scarlet"]
         },
         {
-          "title": "Explainer, Translation, Video explainer",
+          "title": "sissi Explainer, Translation, Video explainer",
           "weight": 456,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["sissi"]
         },
         {
-          "title": "Translation",
+          "title": "Thatstier Translation",
           "weight": 815,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["Thatstier"]
         },
         {
-          "title": "Stickers",
+          "title": "vammac Stickers",
           "weight": 200,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["vammac"]
         },
         {
-          "title": "Translation and Explainer",
+          "title": "wincey Translation and Explainer",
           "weight": 951,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["wincey"]
         },
         {
-          "title": "Explainer",
+          "title": "xiaoxiao Explainer",
           "weight": 965,
           "timestampIso": "2022-03-06T22:00:00.000Z",
           "contributors": ["xiaoxiao"]
+        },
+        {
+          "title": "Overlay Call 2 - Thursday",
+          "weight": 400,
+          "timestampIso": "2022-03-03T22:00:00.000Z",
+          "contributors": ["buihoangthai", "keng---thaitalent", "kirk", "rskl"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday",
+          "weight": 1300,
+          "timestampIso": "2022-03-04T22:00:00.000Z",
+          "contributors": [
+            "Beta",
+            "hanxilgf",
+            "kirk",
+            "rskl",
+            "keng---thaitalent",
+            "KTP",
+            "nueng",
+            "Vexter-Vladimir",
+            "WaTcHinG",
+            "xiaoxiao",
+            "SexyCD2ElectricBoogaloo",
+            "imhere",
+            "s33"
+          ]
         }
       ]
     }
