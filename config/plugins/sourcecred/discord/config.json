@@ -11,9 +11,9 @@
       "applyAveraging": false,
       "defaultWeight": 1,
       "weights": {
-        "wizard:938519430332297247": 75,
-        "exploding_head:938118256202510377": 30,
-        "excellent:938118431662817300": 15
+        "wizard:938519430332297247": 25,
+        "exploding_head:938118256202510377": 10,
+        "excellent:938118431662817300": 5
       }
     },
     "roleWeightConfig": {
