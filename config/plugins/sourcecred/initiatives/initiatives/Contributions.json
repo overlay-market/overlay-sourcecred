@@ -4,7 +4,7 @@
     "version": "0.2.0"
   },
   {
-    "title": "Overlay Community Initiative",
+    "title": "Overlay Contributions Initiative",
     "timestampIso": "2022-02-02T22:00:00.000Z",
     "weight": {
       "incomplete": 0,
@@ -13,55 +13,6 @@
     "completed": false,
     "contributions": {
       "entries": [
-        {
-          "title": "Overlay Call 1",
-          "weight": 4200,
-          "timestampIso": "2022-02-02T22:00:00.000Z",
-          "contributors": [
-            "DrGumbercules",
-            "buihoangthai",
-            "Vexter-Vladimir",
-            "Phongsathorn",
-            "vammac",
-            "kirk",
-            "keng---thaitalent",
-            "hekarus",
-            "england",
-            "JJoKeR---thaitalent",
-            "SexyCD2ElectricBoogaloo",
-            "pom",
-            "bronemy",
-            "Mringz---Index",
-            "Rachanont",
-            "pom-discord",
-            "ultrasound",
-            "Subarash-",
-            "Murfenstein",
-            "gibbalpha",
-            "ToekahMav---",
-            "Moneyfirstie",
-            "omoreloadit",
-            "kepler",
-            "WaTcHinG",
-            "Sukotto---Thaitalent",
-            "cryptobulz",
-            "retrobruh",
-            "hanshotfirst",
-            "donaldp",
-            "Bismark2021",
-            "ayuayu",
-            "THE-BHOOM",
-            "Alhambra",
-            "Kim",
-            "babylove",
-            "Valve",
-            "ongoing1559",
-            "bao0107",
-            "zeck",
-            "darkbluechain",
-            "mazon-tez"
-          ]
-        },
         {
           "title": "Beta Translation and Video Explainer",
           "weight": 364,
@@ -163,26 +114,6 @@
           "weight": 400,
           "timestampIso": "2022-03-03T22:00:00.000Z",
           "contributors": ["buihoangthai", "keng---thaitalent", "kirk", "rskl"]
-        },
-        {
-          "title": "Overlay Call 2 - Friday",
-          "weight": 1300,
-          "timestampIso": "2022-03-04T22:00:00.000Z",
-          "contributors": [
-            "Beta",
-            "hanxilgf",
-            "kirk",
-            "rskl",
-            "keng---thaitalent",
-            "KTP",
-            "nueng",
-            "Vexter-Vladimir",
-            "WaTcHinG",
-            "xiaoxiao",
-            "SexyCD2ElectricBoogaloo",
-            "imhere",
-            "s33"
-          ]
         }
       ]
     }
